@@ -1,5 +1,7 @@
 # Lafe Spietz
 
+### email: lafelabs at gmail dot com
+
 ### Mission
 
 My mission is to work as an applied scientist and teacher toward the global goal of abolishing all mining and petrochemical extraction by 2050.  
