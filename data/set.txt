@@ -1,10 +1,22 @@
 [
     {
-        "url": "https://raw.githubusercontent.com/LafeLabs/thing/master/minimal/php/replicator.txt",
+        "url": "https://raw.githubusercontent.com/LafeLabs/lafespietzresume/master/index.html",
+        "name": "index.html"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/LafeLabs/lafespietzresume/master/README.md",
+        "name": "README.md"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/LafeLabs/lafespietzresume/master/data/set.txt",
+        "name": "data/set.txt"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/LafeLabs/lafespietzresume/master/php/replicator.txt",
         "name": "php/replicator.txt"
     },
     {
-        "url": "https://raw.githubusercontent.com/LafeLabs/thing/master/minimal/php/replicator.txt",
+        "url": "https://raw.githubusercontent.com/LafeLabs/lafespietzresume/master/php/replicator.txt",
         "name": "replicator.php"
     }
 ]
