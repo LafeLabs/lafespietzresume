@@ -10,31 +10,17 @@ I am an experienced technologist looking to take a leadership role in building c
 
 ### Highlights:
 
- - taught arduino classes around the country at maker spaces, developed original curriculum, including specialized hardware
- - developed in the public domain the shot noise thermometer, shared around the world
- - developed the amplifier and shared it around the world
- - developed the curriculum for the Arduino class at APL
- - developed the Geometron language and published online, for laser cutter design and geometry education, published in a book
- - was on board of Concoctory maker space
- - developed physics demonstrations from scratch in grad school
- - taught E&M in grad school
- - created a system of self-replicating web pages which can be used for STEM education and published it in internal APL journal
- - got funded to develop open source web-based code for quantum information science, mentored a high school intern on the HTML code
- - volunteered at Upcycle Alexandria, teaching kids about electronics and robotics
- - created the Trash Robot system and published also in my book
- - mentored interns who built microscopes from trash and won a science fair and wrote a paper
- - mentored interns on quantum information science and building arduino based measurement systems for electrochemistry
- - raised approximately 1 million dollars in grants while working at NIST, was PI on two grants
- - have led successful crowdfund campaigns of open source hardware products
- - 20 years experience developing and distributing open source hardware and teaching people about it 
- - black belt in judo, experienced teaching adult judo
+ - Taught arduino classes around the country at maker spaces, developed original curriculum, including specialized hardware
  - Brought the Shot Noise Thermometer from a concept to a deployed technology used around the world, starting with research as a technician in Shoelkopf’s lab, then as a grad student, then as a post doc at NIST, then as a consultant at APL.  Over an 18 year arc I have guided this technology, which has found significant use for calibrating the noise in quantum measurement systems as well as precision temperature measurement.  Won award for best engineering dissertation, multiple invited talks, published in Science, invited by South Korean government(KRISS) in 2012 to help deploy the technology in their standards lab.
- - Developed the lumped element microwave SQUID amplifier, leveraging NIST’s existing SQUID fab and design to make ultra low noise amplifiers used in readout for quantum systems in labs both inside and outside NIST(Princeton, Dartmouth).
- - Invented and developed haptic interface, deployed commercial product in Boulder Applied Physics
- - Constructed original “flame chamber” nanofabrication apparatus for carbon nanostructures in Zettl Group.
- - Development of nanofabrication process using user facility clean room at CU Boulder as a contractor for Sherbrooke University in Quebec.
- - Designed parametric amplifier devices fabricated and used by the IBM quantum computing team
- - Raised just under 1 million dollars in DoD funding(NSA and ONR), managed multiple projects as PI on Josephson junction projects at NIST. Filed monthly reports to sponsors, attended program reviews, managed sponsor relationships.
+ - Developed the lumped element microwave SQUID amplifier, leveraging NIST’s existing SQUID fab and design to make ultra low noise amplifiers used in readout for quantum systems in labs both inside and outside NIST(Princeton, Dartmouth). - Developed the fully open source Geometron geometric programming language and published in a book available at [https://www.trashrobot.org](https://www.trashrobot.org)
+ - Was on the board of Concoctory maker space briefly in 2014
+ - Worked as a teaching assistant in graduate school building new electromaginetic demonstrations from scratch and bringing old demos back from the grave 
+ - Volunteered at Upcycle Alexandria, teaching kids about electronics and robotics
+ - Mentored interns who built microscopes from electronic trash and won a science fair and wrote a paper 
+ - Raised approximately 1 million dollars in grants while working at NIST, was PI on two grants
+ - Have led successful crowdfund campaigns of open source hardware products
+ - Black belt in judo, experienced teaching adult judo
+ - Raised about a million dollars in DoD funding(NSA and ONR), managed multiple projects as PI on Josephson junction projects at NIST. Filed monthly reports to sponsors, attended program reviews, managed sponsor relationships.
  - Founded, built and managed startup company of 10 people, interfacing with investors, partners, contractors, customers and the media to build a several hundred thousand dollar a year operation from scratch. Raised 250k in investor capital, managed investor relations.
  - Managed and mentored post docs and grad students at NIST
  - President of Yale cleanroom for 1 year, managed both equipment and personalities to keep things running smoothly from changing oil on vacuum pumps to smoothing over disputes over equipment scheduling
@@ -43,7 +29,7 @@ I am an experienced technologist looking to take a leadership role in building c
 
 #### Johns Hopkins University Applied Physics Laboratory. Senior Staff scientist, 2019-present.  
 
-In addition to research duties, worked on STEM education both for high school and adult ages. created the Arduino curriculum for the maker space.  Created a system for internal self-replicating web pages which can be shared across a local network, published an internal paper about it.  Mentored high school interns building microscopes from electronic waste(DVD drives), doing electrochemical measurements with Arduino, and interacting with quantum information using web browser based software.  
+In addition to research duties(which I can't discuss), worked on STEM education both for high school and adult ages. created the Arduino curriculum for the maker space.  Created a system for internal self-replicating web pages which can be shared across a local network, published an internal paper about it.  Mentored high school interns building microscopes from electronic waste(DVD drives), doing electrochemical measurements with Arduino, and interacting with quantum information using web browser based software.  
 
 #### Founder, president Spietz Applied Sciences, LLC				        2010- 2018
 
